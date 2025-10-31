@@ -1,7 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l22212277-stack/Practica-3)
 # Práctica: Sistema musculoesquelético
 
-## Información de la estudiante
+## Información deL estudiante
 
 Alberto Villalobos Valdez \[22212277]; L22212277@tectijuana.edu.mx
 
